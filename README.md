@@ -1,2 +1,2 @@
 # json-resume
-my resume in json format
+my CV/resume in json.
