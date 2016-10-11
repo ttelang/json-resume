@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Tarun Telang",
+    "label": "Software Development Manager / Engineering Manager",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/062/3ca/1e0abb6.jpg",
+    "email": "tarun.telang@gmail.com",
+    "phone": "+91 998 003 6444",
+    "website": "https://www.linkedin.com/in/taruntelang",
+    "summary": "Thorough experience working with agile methodologies including user-centric design and managing cross-cultural teams. Having hands-on experience in design & development of Web, Mobile & Cloud based enterprise applications.",
+    "location": {
+      "address": " ",
+      "postalCode": "India, ",
+      "city": "Hyderabad",
+      "countryCode": "500032.",
+      "region": "Telangana,"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "taruntelang",
+        "url": "https://twitter.com/taruntelang"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Polycom",
+      "position": "Engineering Manager",
+      "website": "https://www.polycom.com",
+      "startDate": "2013-08-17",
+      "endDate": "Now",
+      "summary": "Polycom is industry leader in unified collaboration solutions. More than 400,000 Companies choose Polycom for solutions that enable their geographically dispersed workforces to communicate and collaborate more effectively and productively over distances. Using Polycom telepresence, video, and voice solutions and services, people connect and collaborate from their desktops, meeting rooms, class rooms, and mobile settings.",
+      "highlights": [
+        "Coach and motivate team to ensure high productivity, great collaboration and teamwork, and help each individual achieve his/her maximum potential while working on feature development and maintenance releases. ",
+        "Adaptation and Champion for best practices such as Code Review, Static code analysis, and improving developer productivity.",
+        "Managing product life cycle (from conceptualization, implementation, rollout & support) for product RealPresence Touch software, a solution for controlling video collaboration using Android, Java & Web technologies. ",
+        "Work closely with various stakeholders across the world including Product Management, Solution Architects, Program Management, Sales, Support and Professional Services.",
+        "Taking care of various managerial activities including Project Management, Appraisals & Performance Management, Compensation Planning, Bonus & Rewards Management, Financial Planning, Assets & Budget Management, Procurement & Vendor management etc."
+      ]
+    },
+    {
+      "company": "SAP",
+      "position": "Associate Architect",
+      "website": "www.sap.com",
+      "startDate": "2005-06-15",
+      "endDate": "2013-08-18",
+      "summary": " SAP is market leader in enterprise application software and the world’s third largest independent software manufacturer.",
+      "highlights": [
+        "Define product roadmap with business partners to reach business objectives ",
+        "Definition, design and development of meta-objects for on-demand business applications",
+        "Integrate applications technologies (like HANA In-Memory DB, SQL Script), development frameworks and tools.",
+        "Lead and manage team for the business which is very critical to the company. "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "International Institute of Information Technology - Bangalore",
+      "area": "Information Technology",
+      "studyType": "Masters",
+      "startDate": "2003-06-01",
+      "endDate": "2005-06-01",
+      "gpa": "3.3 / 4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "XML",
+        "REST"
+      ]
+    },
+    {
+      "name": "Enterprise Software Development",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "SAP",
+        "EJB",
+        "Spring",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "HANA",
+        "MySQL",
+        "Postgres",
+        "MS SQL Server"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "Master",
+      "keywords": [
+        "Android"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent Speaking & Writing skills"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent Speaking & Writing skills"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementry"
+    },
+    {
+      "language": "French",
+      "fluency": "Elementry"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "table tennis",
+        "badminton",
+        "lawn tennis"
+      ]
+    },
+    {
+      "name": "Technical Writing",
+      "keywords": [
+        "books",
+        "blogs",
+        "whitepapers"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "photography",
+        "wild life",
+        "nature",
+        "historic monument"
+      ]
+    }
+  ],
+  "references": []
+}
