@@ -58,11 +58,20 @@
     {
       "institution": "International Institute of Information Technology - Bangalore",
       "area": "Information Technology",
-      "studyType": "Masters",
+      "studyType": "Masters of Technology",
       "startDate": "2003-06-01",
       "endDate": "2005-06-01",
       "gpa": "3.3 / 4.0",
-      "courses": []
+      "courses": ['Data Structures & Algorithms', 'Advanced Operating System', 'Dynamics of Software Industry', 'Object Oriented Analsis & Design', 'Software Architecture', 'Advanced DBMS' ]
+    }, 
+    {
+      "institution": "Bhilai Institute of Technology, Durg",
+      "area": "Computer Science",
+      "studyType": "Bachelors of Engineering",
+      "startDate": "2002-04-01",
+      "endDate": "1998-06-01",
+      "gpa": "75% / 100%",
+      "courses": ['Artificial Intelligence', 'Neural Networks', 'Data Structures', 'Programming Languages', 'Computational Mathematics', 'DBMS' ]
     }
   ],
   "awards": [],
