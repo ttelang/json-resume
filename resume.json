@@ -5,13 +5,13 @@
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/062/3ca/1e0abb6.jpg",
     "email": "tarun.telang@gmail.com",
     "phone": "+91 998 003 6444",
-    "website": "https://www.linkedin.com/in/taruntelang",
+    "website": "",
     "summary": "Thorough experience working with agile methodologies including user-centric design and managing cross-cultural teams. Having hands-on experience in design & development of Web, Mobile & Cloud based enterprise applications.",
     "location": {
-      "address": " ",
-      "postalCode": "India, ",
+      "address": "",
+      "postalCode": "500032",
       "city": "Hyderabad",
-      "countryCode": "500032.",
+      "countryCode": "IN",
       "region": "Telangana,"
     },
     "profiles": [
@@ -19,6 +19,11 @@
         "network": "Twitter",
         "username": "taruntelang",
         "url": "https://twitter.com/taruntelang"
+      }, 
+	  {
+        "network": "LinkedIn",
+        "username": "taruntelang",
+        "url": "https://www.linkedin.com/in/taruntelang"
       }
     ]
   },
@@ -31,9 +36,9 @@
       "endDate": "Now",
       "summary": "Polycom is industry leader in unified collaboration solutions. More than 400,000 Companies choose Polycom for solutions that enable their geographically dispersed workforces to communicate and collaborate more effectively and productively over distances. Using Polycom telepresence, video, and voice solutions and services, people connect and collaborate from their desktops, meeting rooms, class rooms, and mobile settings.",
       "highlights": [
-        "Coach and motivate team to ensure high productivity, great collaboration and teamwork, and help each individual achieve his/her maximum potential while working on feature development and maintenance releases. ",
+        "Coach and motivate team to ensure high productivity, great collaboration and teamwork, and help each individual achieve his/her maximum potential while working on feature development and maintenance releases.",
         "Adaptation and Champion for best practices such as Code Review, Static code analysis, and improving developer productivity.",
-        "Managing product life cycle (from conceptualization, implementation, rollout & support) for product RealPresence Touch software, a solution for controlling video collaboration using Android, Java & Web technologies. ",
+        "Managing product life cycle (from conceptualization, implementation, rollout & support) for product RealPresence Touch software, a solution for controlling video collaboration using Android, Java & Web technologies.",
         "Work closely with various stakeholders across the world including Product Management, Solution Architects, Program Management, Sales, Support and Professional Services.",
         "Taking care of various managerial activities including Project Management, Appraisals & Performance Management, Compensation Planning, Bonus & Rewards Management, Financial Planning, Assets & Budget Management, Procurement & Vendor management etc."
       ]
@@ -46,10 +51,11 @@
       "endDate": "2013-08-18",
       "summary": " SAP is market leader in enterprise application software and the world’s third largest independent software manufacturer.",
       "highlights": [
-        "Define product roadmap with business partners to reach business objectives ",
+        "Define product roadmap with business partners to reach business objectives.",
         "Definition, design and development of meta-objects for on-demand business applications",
         "Integrate applications technologies (like HANA In-Memory DB, SQL Script), development frameworks and tools.",
-        "Lead and manage team for the business which is very critical to the company. "
+        "Lead and manage team for the business which is very critical to the company."
+		"Conceptualize, Architect and Prototype Message Sequencing in Service Oriented Architecture (SOA)."
       ]
     }
   ],
@@ -59,19 +65,30 @@
       "institution": "International Institute of Information Technology - Bangalore",
       "area": "Information Technology",
       "studyType": "Masters of Technology",
-      "startDate": "2003-06-01",
+      "startDate": "2003-07-01",
       "endDate": "2005-06-01",
       "gpa": "3.3 / 4.0",
-      "courses": ['Data Structures & Algorithms', 'Advanced Operating System', 'Dynamics of Software Industry', 'Object Oriented Analsis & Design', 'Software Architecture', 'Advanced DBMS' ]
+      "courses": ["Software Engineering", "Advanced Operating Systems", "Algorithms & Data Structures", "Software Architecture", "Advanced Database Management Systems", 
+					"Programming languages", "Computer Architecture", "Mobile Communications", "Dynamics of IT Industry", "OOAD Marketing", "Finance & Accounting"]
     }, 
-    {
-      "institution": "Bhilai Institute of Technology, Durg",
+	{
+      "institution": "Center of Development of Advanced Computing (CDAC), Hyderabad ",
       "area": "Computer Science",
-      "studyType": "Bachelors of Engineering",
-      "startDate": "2002-04-01",
-      "endDate": "1998-06-01",
-      "gpa": "75% / 100%",
-      "courses": ['Artificial Intelligence', 'Neural Networks', 'Data Structures', 'Programming Languages', 'Computational Mathematics', 'DBMS' ]
+      "studyType": "Diploma in Advanced Computing ",
+      "startDate": "2003-02-01",
+      "endDate": "2003-06-31",
+      "gpa": "81 / 100%",
+      "courses": ["C/C++", "Java", "Oracle", "Database Architecture", "Visual C++ (Win32 & MFC)", "XML", "HTML", "JavaScript", "J2EE", ".NET"]
+    }, 
+	{
+      "institution": "Bhilai Institute of Technology - Durg",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "1998-06-01",
+      "endDate": "2002-03-31",
+      "gpa": "75 / 100%",
+      "courses": ["Data Structures", "Database Management Systems", "Software Engineering", "Theory of Computation", "Compiler Design", "Operating Systems", "Computer Networks", 
+		"Computer Graphics", "Discrete Mathematics", "Artificial Intelligence", "Neural Networks"]
     }
   ],
   "awards": [],
@@ -81,32 +98,21 @@
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "XML",
-        "REST"
+        "HTML", "CSS", "Javascript", "XML", "Adobe Flex", "REST"
       ]
     },
     {
       "name": "Enterprise Software Development",
       "level": "Master",
       "keywords": [
-        "Java",
-        "SAP",
-        "EJB",
-        "Spring",
-        "SOAP"
+        "Java", "JavaEE", "SAP", "EJB", "Spring", "SOAP", "ABAP", "WebDynpro"
       ]
     },
     {
       "name": "Database",
       "level": "Master",
       "keywords": [
-        "HANA",
-        "MySQL",
-        "Postgres",
-        "MS SQL Server"
+        "SAP HANA", "MySQL", "Postgres", "Oracle", "MS SQL Server"
       ]
     },
     {
