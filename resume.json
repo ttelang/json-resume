@@ -1,26 +1,31 @@
 {
   "basics": {
     "name": "Tarun Telang",
-    "label": "Software Development Manager / Engineering Manager",
+    "label": "Software Development Manager",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/062/3ca/1e0abb6.jpg",
     "email": "tarun.telang@gmail.com",
-    "phone": "+91 998 003 6444",
-    "website": "",
-    "summary": "Thorough experience working with agile methodologies including user-centric design and managing cross-cultural teams. Having hands-on experience in design & development of Web, Mobile & Cloud based enterprise applications.",
+    "phone": "91 998 003 6444",
+    "website": "http://stackoverflow.com/story/ttelang",
+    "summary": "Thorough experience working with agile methodologies including user-centric design and managing cross-cultural teams. Having hands-on experience in design & development of Web, Mobile & Cloud based enterprise applications",
     "location": {
       "address": "",
       "postalCode": "500032",
       "city": "Hyderabad",
       "countryCode": "IN",
-      "region": "Telangana,"
+      "region": "Telangana"
     },
     "profiles": [
+      {
+        "network": "Github",
+        "username": "ttelang",
+        "url": "https://github.com/ttelang"
+      },
       {
         "network": "Twitter",
         "username": "taruntelang",
         "url": "https://twitter.com/taruntelang"
-      }, 
-	  {
+      },
+      {
         "network": "LinkedIn",
         "username": "taruntelang",
         "url": "https://www.linkedin.com/in/taruntelang"
@@ -31,31 +36,60 @@
     {
       "company": "Polycom",
       "position": "Engineering Manager",
-      "website": "https://www.polycom.com",
+      "website": "www.polycom.com",
       "startDate": "2013-08-17",
-      "endDate": "Now",
-      "summary": "Polycom is industry leader in unified collaboration solutions. More than 400,000 Companies choose Polycom for solutions that enable their geographically dispersed workforces to communicate and collaborate more effectively and productively over distances. Using Polycom telepresence, video, and voice solutions and services, people connect and collaborate from their desktops, meeting rooms, class rooms, and mobile settings.",
+      "endDate": "2017-01-01",
+      "summary": "Managing product life cycle (from conceptualization, implementation, rollout & support) for product RealPresence Touch software, a solution for controlling video collaboration using Android, Java & Web technologies.",
       "highlights": [
-        "Coach and motivate team to ensure high productivity, great collaboration and teamwork, and help each individual achieve his/her maximum potential while working on feature development and maintenance releases.",
-        "Adaptation and Champion for best practices such as Code Review, Static code analysis, and improving developer productivity.",
-        "Managing product life cycle (from conceptualization, implementation, rollout & support) for product RealPresence Touch software, a solution for controlling video collaboration using Android, Java & Web technologies.",
+        "Coach and motivate team to ensure high productivity, great collaboration and teamwork.",
         "Work closely with various stakeholders across the world including Product Management, Solution Architects, Program Management, Sales, Support and Professional Services.",
-        "Taking care of various managerial activities including Project Management, Appraisals & Performance Management, Compensation Planning, Bonus & Rewards Management, Financial Planning, Assets & Budget Management, Procurement & Vendor management etc."
+        "Taking care of various managerial activities including Project Management, Appraisals & Performance Management, Compensation Planning, Bonus & Rewards Management, Financial Planning, Assets & Budget Management, Procurement & Vendor management etc.",
+        "Help each individual achieve his/her maximum potential while working on feature development and maintenance releases."
       ]
     },
     {
       "company": "SAP",
       "position": "Associate Architect",
       "website": "www.sap.com",
+      "startDate": "2010-09-08",
+      "endDate": "2013-08-15",
+      "summary": "Definition, design and development of on-demand business applications",
+      "highlights": [
+        "Define product roadmap with business partners to reach business objectives.tools.",
+        "Integrate applications using technologies like HANA In-Memory DB, SQL Script, development frameworks and tools",
+        "Conceptualize, Architect and Prototype message processing for Service Oriented Architecture (SOA)",
+        "\"Lead and manage team for the business which is very critical to the company."
+      ]
+    },
+    {
+      "company": "BlacBerry - Canada",
+      "position": "Portal Consultant - Tata Consultancy Services",
+      "website": "www.blackberry.com",
+      "startDate": "2009-04-01",
+      "endDate": "2010-09-07",
+      "summary": "",
+      "highlights": [
+        "Ownership of all CAPEX & OPEX projects related Java & Enterprise Web Portal.",
+        "Showcasing to senior management prototypes of interactive enterprise applications for BlackBerry (formerly Research In Motion).",
+        "Delivery of solutions for Compensation Planning - HR Manager Self Service and Non-Revenue Shipping Application solution."
+      ]
+    },
+    {
+      "company": "SAP",
+      "position": "Principal Software Engineer",
+      "website": "www.sap.com",
       "startDate": "2005-06-15",
-      "endDate": "2013-08-18",
+      "endDate": "2009-04-01",
       "summary": " SAP is market leader in enterprise application software and the world’s third largest independent software manufacturer.",
       "highlights": [
-        "Define product roadmap with business partners to reach business objectives.",
-        "Definition, design and development of meta-objects for on-demand business applications",
-        "Integrate applications technologies (like HANA In-Memory DB, SQL Script), development frameworks and tools.",
-        "Lead and manage team for the business which is very critical to the company."
-		"Conceptualize, Architect and Prototype Message Sequencing in Service Oriented Architecture (SOA)."
+        "Project Lead for an Application Management Middleware.",
+        "Work with Product Management to define the appropriate road map and immediate projects, focused on delivering software releases",
+        "SAP Evangelist, Community Moderator & Technical Content Contributor for Emerging Technologies at SAP Community Network",
+        "Acknowledgment by Author for the book - Enterprise SOA: designing IT for business innovation for contributing in content creation.",
+        "Design and architecture of Service Oriented Architecture (SOA) based on-demand Accounting applications for enterprises.",
+        "Development of web applications for distributed monitoring and management of enterprise applications using Java Management extension (JMX) architecture.",
+        "Delivering of product features as per sprints using agile software development process and user centric design methodologies.",
+        "Development of Global Data Synchronization (GDS) solution, a master data management solution for retail industry for synchronizing product information across the entire supply chain."
       ]
     }
   ],
@@ -65,54 +99,219 @@
       "institution": "International Institute of Information Technology - Bangalore",
       "area": "Information Technology",
       "studyType": "Masters of Technology",
-      "startDate": "2003-07-01",
-      "endDate": "2005-06-01",
-      "gpa": "3.3 / 4.0",
-      "courses": ["Software Engineering", "Advanced Operating Systems", "Algorithms & Data Structures", "Software Architecture", "Advanced Database Management Systems", 
-					"Programming languages", "Computer Architecture", "Mobile Communications", "Dynamics of IT Industry", "OOAD Marketing", "Finance & Accounting"]
-    }, 
-	{
+      "startDate": "2003-08-01",
+      "endDate": "2005-05-01",
+      "gpa": "3.1 / 4.0",
+      "courses": [
+        "Software Engineering",
+        "Advanced Operating Systems",
+        "Algorithms & Data Structures",
+        "Software Architecture",
+        "Advanced Database Management Systems",
+        "Programming languages",
+        "Computer Architecture",
+        "Mobile Communications",
+        "Dynamics of IT Industry",
+        "OOAD Marketing",
+        "Finance & Accounting"
+      ]
+    },
+    {
       "institution": "Center of Development of Advanced Computing (CDAC), Hyderabad ",
       "area": "Computer Science",
       "studyType": "Diploma in Advanced Computing ",
       "startDate": "2003-02-01",
       "endDate": "2003-06-31",
       "gpa": "81 / 100%",
-      "courses": ["C/C++", "Java", "Oracle", "Database Architecture", "Visual C++ (Win32 & MFC)", "XML", "HTML", "JavaScript", "J2EE", ".NET"]
-    }, 
-	{
+      "courses": [
+        "C/C++",
+        "Java",
+        "Oracle",
+        "Database Architecture",
+        "Visual C++ (Win32 & MFC)",
+        "XML",
+        "HTML",
+        "JavaScript",
+        "J2EE",
+        ".NET"
+      ]
+    },
+    {
       "institution": "Bhilai Institute of Technology - Durg",
       "area": "Computer Science",
       "studyType": "Bachelor of Engineering",
       "startDate": "1998-06-01",
       "endDate": "2002-03-31",
       "gpa": "75 / 100%",
-      "courses": ["Data Structures", "Database Management Systems", "Software Engineering", "Theory of Computation", "Compiler Design", "Operating Systems", "Computer Networks", 
-		"Computer Graphics", "Discrete Mathematics", "Artificial Intelligence", "Neural Networks"]
+      "courses": [
+        "Data Structures",
+        "Database Management Systems",
+        "Software Engineering",
+        "Theory of Computation",
+        "Compiler Design",
+        "Operating Systems",
+        "Computer Networks",
+        "Computer Graphics",
+        "Discrete Mathematics",
+        "Artificial Intelligence",
+        "Neural Networks"
+      ]
+    },
+    {
+      "institution": "Senior Secondary School Sector X - Bhilai",
+      "area": "",
+      "studyType": "12th Std.",
+      "startDate": "1997-04-01",
+      "endDate": "1998-03-01",
+      "gpa": "75%",
+      "courses": [
+        "English",
+        "Computer Science",
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
+    },
+    {
+      "institution": "Senior Secondary School Sector X - Bhilai",
+      "area": "",
+      "studyType": "10th Std.",
+      "startDate": "1995-04-01",
+      "endDate": "1996-03-01",
+      "gpa": "87%",
+      "courses": [
+        "English",
+        "Computer Science",
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "SAP Value Awards (Best Employee Award) - Simplicity",
+      "date": "2006-01-01",
+      "awarder": "SAP Labs Bangalore",
+      "summary": ""
+    },
+    {
+      "title": "SAP Developer Challenge - Palo Alto (US) ",
+      "date": "2006-01-01",
+      "awarder": "SAP",
+      "summary": "1st Prize (Audience Poll) & 3rd Prize (Judges Decision)"
+    },
+    {
+      "title": "SAP TechEd ’06 - Demo Jam Sessions",
+      "date": "2006-11-01",
+      "awarder": "SAP",
+      "summary": "3rd Prize – SAP TechEd 06 Las Vegas, 3rd Prize – SAP TechEd 06 Bangalore, Finalist SAP TechEd 06 Amsterdam"
+    },
+    {
+      "title": "Star Performer Award",
+      "date": "2015-03-01",
+      "awarder": "Polycom",
+      "summary": ""
+    },
+    {
+      "title": "SAP Value Awards (Best Employee Award) for Simplicity",
+      "date": "2014-11-01",
+      "awarder": "SAP Labs Bangalore",
+      "summary": ""
+    },
+    {
+      "title": "Best Student Award",
+      "date": "2003-07-01",
+      "awarder": "CDAC, Hyderabad",
+      "summary": ""
+    },
+    {
+      "title": "Received National Talent Search Examination (NTSE) Scholarship",
+      "date": "1996-02-01",
+      "awarder": "National Council of Educational Research & Training (NCERT)",
+      "summary": ""
+    },
+    {
+      "title": "National Scholarship for Highest marks (96/100) in Social Studies",
+      "date": "1996-04-01",
+      "awarder": "Central Board of Secondary Education (CBSE)",
+      "summary": ""
+    },
+    {
+      "title": "Received M.P State Level Science Scholarship",
+      "date": "1996-02-01",
+      "awarder": "Science Department of State Government",
+      "summary": ""
+    }
+  ],
   "publications": [],
   "skills": [
     {
       "name": "Web Development",
       "level": "Master",
       "keywords": [
-        "HTML", "CSS", "Javascript", "XML", "Adobe Flex", "REST"
+        "HTML",
+        "CSS",
+        "Javascript",
+        "BackboneJS",
+        "JQuery",
+        "Bootstrap",
+        "AngularJS",
+        "XML",
+        "XSLT",
+        "XSD",
+        "Adobe Flex",
+        "ActionScript",
+        "REST"
       ]
     },
     {
       "name": "Enterprise Software Development",
       "level": "Master",
       "keywords": [
-        "Java", "JavaEE", "SAP", "EJB", "Spring", "SOAP", "ABAP", "WebDynpro"
+        "Java",
+        "JavaEE",
+        "SAP",
+        "EJB",
+        "Spring",
+        "SOAP",
+        "ABAP",
+        "WebDynpro",
+        "Salesforce.com",
+        "Apex",
+        "Visualforce"
+      ]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Master",
+      "keywords": [
+        "Lint",
+        "Gradle",
+        "Jenkins",
+        "SonarQube"
+      ]
+    },
+    {
+      "name": "Operating System",
+      "level": "Master",
+      "keywords": [
+        "Windows",
+        "Linux (CentOS)",
+        "Mac OSX",
+        "iOS",
+        "Android"
       ]
     },
     {
       "name": "Database",
       "level": "Master",
       "keywords": [
-        "SAP HANA", "MySQL", "Postgres", "Oracle", "MS SQL Server"
+        "SAP HANA",
+        "MySQL",
+        "Postgres",
+        "Oracle",
+        "MS SQL Server"
       ]
     },
     {
