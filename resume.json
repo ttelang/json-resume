@@ -244,25 +244,63 @@
       "summary": ""
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "System and Method for Model Driven Unit Testing Environment",
+      "publisher": "US Patent Office",
+      "releaseDate": "2009-07-02",
+      "website": "http://patents.justia.com/patent/20090172647",
+      "summary": "Embodiments of the invention are generally directed to a system and method for software program testing using a unit testing environment. A model having qualifiers is created using a modeling tool. A markup language meta-model is generated using the earlier created model. A unit test, generated using the markup language meta-model and the code or source code are stored in a code repository or source code repository. During execution, the unit test environment synchronizes the code from the code repository and reports are generated based on the unit test execution."
+    },
+    {
+      "name": "Contextual Collaborative Electronic Annotations",
+      "publisher": "US Patent Office",
+      "releaseDate": "2007-08-22",
+      "website": "http://patents.justia.com/patent/20090055737",
+      "summary": "An application having an associated and a graphical user interface is initiated. Thereafter, the widget determines a first state of the application. Once the first state of the application is determined, the widget calls at least one remote repository to retrieve one or more electronic annotations associated with the first state of the application. These electronic annotations are then displayed in connection with the graphical user interface of the application."
+    }
+  ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Web",
       "level": "Master",
       "keywords": [
-        "HTML",
+        "HTML5",
         "CSS",
         "Javascript",
-        "BackboneJS",
         "JQuery",
         "Bootstrap",
-        "AngularJS",
-        "XML",
-        "XSLT",
-        "XSD",
+        "BackboneJS",
+        "AngularJS"
+      ]
+    },
+    {
+      "name": "Rich Internet Application (RIA)",
+      "level": "Master",
+      "keywords": [
         "Adobe Flex",
-        "ActionScript",
+        "ActionScript"
+      ]
+    },
+    {
+      "name": "Integration Technologies",
+      "level": "Master",
+      "keywords": [
+        "XML",
+        "XSD",
+        "XSLT",
+        "SOA",
+        "JSON",
         "REST"
+      ]
+    },
+    {
+      "name": "SAP",
+      "level": "Master",
+      "keywords": [
+        "ABAP",
+        "WebDynpro",
+        "UI5"
       ]
     },
     {
@@ -270,13 +308,16 @@
       "level": "Master",
       "keywords": [
         "Java",
-        "JavaEE",
-        "SAP",
+        "Java Enterprise Edition (JavaEE)",
         "EJB",
         "Spring",
-        "SOAP",
-        "ABAP",
-        "WebDynpro",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "Salesforce (CRM)",
+      "level": "Master",
+      "keywords": [
         "Salesforce.com",
         "Apex",
         "Visualforce"
@@ -318,7 +359,8 @@
       "name": "Mobile",
       "level": "Master",
       "keywords": [
-        "Android"
+        "Android",
+        "Sencha Touch"
       ]
     }
   ],
@@ -333,10 +375,6 @@
     },
     {
       "language": "German",
-      "fluency": "Elementry"
-    },
-    {
-      "language": "French",
       "fluency": "Elementry"
     }
   ],
@@ -367,5 +405,26 @@
       ]
     }
   ],
-  "references": []
+  "references": [
+    {
+      "name": "Guru Bhat, GM Technology & Head of Engineering - Transaction Orchestration Platform at PayPal",
+      "reference": "Tarun is a very talented and forward thinking engineer with a great appetite for learning. He and I worked on several projects where he never ceased to impress me with his ability to think outside the box. In addition to his considerable programming skills, he has his ear to the ground in terms of new technologies and trends and is always looking improve existing products"
+    },
+    {
+      "name": "Gajendra Bhakuni, Development Architect at SAP Labs India Pvt. Ltd.",
+      "reference": "I will say Tarun is an innovator with deep insights into the latest technologies and upcoming trends. He has foundational architectural understanding and is a keen learner with goal oriented approach."
+    },
+    {
+      "name": "Priti Mulchandani, Product Manager at SAP Business Objects",
+      "reference": "Tarun has a great ability to pick up new technology trends even before they are actually used in the market and organizations. He not only learns these fast, but also tries to innovate on top of existing products/solutions. He is always happy to answer questions in his area of expertise as well."
+    },
+    {
+      "name": "Shailja Kaul Gigoo, Senior Consultant at Capgemini",
+      "reference": "I have learnt a lot of things from Tarun on the official front. He improves on his technical skills on a daily basis. One great ability that Tarun has is that he is very down-to -earth and always listen to you and helps/ guides you whenever you need it. I wish him sucess in his future life that remains as he is about to start with a new venture. Would definitely like to be associated with him in future for official reason."
+    },
+    {
+      "name": "Paresh Deshpande, Project Manager at Infosys Technologies",
+      "reference": "I had the opportunity to work with Tarun for a period of two years in Netweaver Lifecycle Management team at SAP Labs, Bangalore. Tarun is a highly motivated individual with never ending enthusiasm for his work as well as for all of his extra curricular activities. I was quite impressed by his technical acumen while working on various assignments in the area of Netweaver Lifecycle Management. He took initiative in coming up with innovative solutions in his assignments on numerous occasions especially when faced with complex scenarios. Tarun also was highly active on SAP Developer Network during this period. He was a consistent contributor to the Network with contributions in the form of blogs as well as various articles."
+    }
+  ]
 }
