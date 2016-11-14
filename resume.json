@@ -263,7 +263,7 @@
   "skills": [
     {
       "name": "Web",
-      "level": "Master",
+     // "level": "Master",
       "keywords": [
         "HTML5",
         "CSS",
@@ -276,7 +276,7 @@
     },
     {
       "name": "Rich Internet Application (RIA)",
-      "level": "Master",
+     // "level": "Master",
       "keywords": [
         "Adobe Flex",
         "ActionScript"
@@ -284,7 +284,7 @@
     },
     {
       "name": "Integration Technologies",
-      "level": "Master",
+     // "level": "Master",
       "keywords": [
         "XML",
         "XSD",
@@ -296,7 +296,7 @@
     },
     {
       "name": "SAP",
-      "level": "Master",
+     // "level": "Master",
       "keywords": [
         "ABAP",
         "WebDynpro",
@@ -305,7 +305,7 @@
     },
     {
       "name": "Enterprise Software Development",
-      "level": "Master",
+     // "level": "Master",
       "keywords": [
         "Java",
         "Java Enterprise Edition (JavaEE)",
@@ -316,7 +316,7 @@
     },
     {
       "name": "Salesforce (CRM)",
-      "level": "Master",
+    //  "level": "Master",
       "keywords": [
         "Salesforce.com",
         "Apex",
@@ -325,7 +325,7 @@
     },
     {
       "name": "Continuous Integration",
-      "level": "Master",
+    //  "level": "Master",
       "keywords": [
         "Lint",
         "Gradle",
@@ -335,7 +335,7 @@
     },
     {
       "name": "Operating System",
-      "level": "Master",
+    //  "level": "Master",
       "keywords": [
         "Windows",
         "Linux (CentOS)",
@@ -346,7 +346,7 @@
     },
     {
       "name": "Database",
-      "level": "Master",
+     // "level": "Master",
       "keywords": [
         "SAP HANA",
         "MySQL",
@@ -357,7 +357,7 @@
     },
     {
       "name": "Mobile",
-      "level": "Master",
+     // "level": "Master",
       "keywords": [
         "Android",
         "Sencha Touch"
