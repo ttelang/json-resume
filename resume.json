@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Tarun Telang",
-    "label": "Software Development Manager",
+    "label": "Senior Manager",
     "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/062/3ca/1e0abb6.jpg",
-    "email": "tarun.telang@gmail.com",
-    "phone": "91 998 003 6444",
+    "email": "XXXXX@gmail.com",
+    "phone": "XX XXX XXX X444",
     "website": "http://stackoverflow.com/story/ttelang",
     "summary": "Thorough experience working with agile methodologies including user-centric design and managing cross-cultural teams. Having hands-on experience in design & development of Web, Mobile & Cloud based enterprise applications",
     "location": {
@@ -34,6 +34,18 @@
   },
   "work": [
     {
+      "company": "Oracle",
+      "position": "Senior Manager",
+      "website": "www.oracle.com",
+      "startDate": "2017-01-16",
+      "summary": "Manager / Project Lead for multiple the                    cloud based hospitality products",
+      "highlights": [
+        "Coach and motivate teams to ensure high productivity, great collaboration and teamwork.",
+        "Work closely with various stakeholders across the world including Product Management, Solution Architects, Program Management, Sales, Support and Professional Services.",
+        "Working with Senior Leadership to define road map and projects, delivering software releases"
+      ]
+    },
+    {
       "company": "Polycom",
       "position": "Engineering Manager",
       "website": "www.polycom.com",
@@ -41,8 +53,7 @@
       "endDate": "2017-01-01",
       "summary": "Managing product life cycle (from conceptualization, implementation, rollout & support) for product RealPresence Touch software, a solution for controlling video collaboration using Android, Java & Web technologies.",
       "highlights": [
-        "Coach and motivate team to ensure high productivity, great collaboration and teamwork.",
-        "Work closely with various stakeholders across the world including Product Management, Solution Architects, Program Management, Sales, Support and Professional Services.",
+        "Define product roadmap with business partners to reach business objectives.tools.",
         "Taking care of various managerial activities including Project Management, Appraisals & Performance Management, Compensation Planning, Bonus & Rewards Management, Financial Planning, Assets & Budget Management, Procurement & Vendor management etc.",
         "Help each individual achieve his/her maximum potential while working on feature development and maintenance releases."
       ]
@@ -55,10 +66,9 @@
       "endDate": "2013-08-15",
       "summary": "Definition, design and development of on-demand business applications",
       "highlights": [
-        "Define product roadmap with business partners to reach business objectives.tools.",
         "Integrate applications using technologies like HANA In-Memory DB, SQL Script, development frameworks and tools",
         "Conceptualize, Architect and Prototype message processing for Service Oriented Architecture (SOA)",
-        "\"Lead and manage team for the business which is very critical to the company."
+        "Lead teams for the critical businesses of the organization."
       ]
     },
     {
@@ -83,9 +93,7 @@
       "summary": " SAP is market leader in enterprise application software and the world’s third largest independent software manufacturer.",
       "highlights": [
         "Project Lead for an Application Management Middleware.",
-        "Work with Product Management to define the appropriate road map and immediate projects, focused on delivering software releases",
         "SAP Evangelist, Community Moderator & Technical Content Contributor for Emerging Technologies at SAP Community Network",
-        "Acknowledgment by Author for the book - Enterprise SOA: designing IT for business innovation for contributing in content creation.",
         "Design and architecture of Service Oriented Architecture (SOA) based on-demand Accounting applications for enterprises.",
         "Development of web applications for distributed monitoring and management of enterprise applications using Java Management extension (JMX) architecture.",
         "Delivering of product features as per sprints using agile software development process and user centric design methodologies.",
@@ -93,7 +101,7 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": ["Acknowledgment by Author for the book - Enterprise SOA: designing IT for business innovation for contributing in content creation."],
   "education": [
     {
       "institution": "International Institute of Information Technology - Bangalore",
@@ -330,7 +338,9 @@
         "Lint",
         "Gradle",
         "Jenkins",
-        "SonarQube"
+        "SonarQube",
+        "Docker",
+        "Chef"
       ]
     },
     {
