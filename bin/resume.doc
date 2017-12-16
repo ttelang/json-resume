@@ -2060,6 +2060,93 @@
 								<w:spacing w:line="240" w:line-rule="auto"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
+								<w:t>Senior Manager</w:t>
+							</w:r>
+							
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>, Oracle</w:t>
+							</w:r>
+							
+							
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>, 1/2017 - Present</w:t>
+							</w:r>
+							
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>Manager / Project Lead for multiple the                    cloud based hospitality products</w:t>
+							</w:r>
+						</w:p>
+						
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="ListParagraph"/>
+								<w:listPr>
+									<w:ilvl w:val="0"/>
+									<w:ilfo w:val="8"/>
+									<wx:t wx:val="•"/>
+									<wx:font wx:val="Calibri"/>
+								</w:listPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+								<w:ind w:left="337" w:hanging="337"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>Coach and motivate teams to ensure high productivity, great collaboration and teamwork.</w:t>
+							</w:r>
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="ListParagraph"/>
+								<w:listPr>
+									<w:ilvl w:val="0"/>
+									<w:ilfo w:val="8"/>
+									<wx:t wx:val="•"/>
+									<wx:font wx:val="Calibri"/>
+								</w:listPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+								<w:ind w:left="337" w:hanging="337"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>Work closely with various stakeholders across the world including Product Management, Solution Architects, Program Management, Sales, Support and Professional Services.</w:t>
+							</w:r>
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="ListParagraph"/>
+								<w:listPr>
+									<w:ilvl w:val="0"/>
+									<w:ilfo w:val="8"/>
+									<wx:t wx:val="•"/>
+									<wx:font wx:val="Calibri"/>
+								</w:listPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+								<w:ind w:left="337" w:hanging="337"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
+								<w:t>Working with Senior Leadership to define road map and projects, delivering software releases</w:t>
+							</w:r>
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
+							</w:pPr>
+						</w:p>
+						
+						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
+							<w:pPr>
+								<w:pStyle w:val="Heading2"/>
+								<w:spacing w:line="240" w:line-rule="auto"/>
+							</w:pPr>
+							<w:r wsp:rsidRPr="00235936">
 								<w:t>Engineering Manager</w:t>
 							</w:r>
 							
@@ -2097,24 +2184,7 @@
 								<w:ind w:left="337" w:hanging="337"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Coach and motivate team to ensure high productivity, great collaboration and teamwork.</w:t>
-							</w:r>
-						</w:p>
-						
-						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
-							<w:pPr>
-								<w:pStyle w:val="ListParagraph"/>
-								<w:listPr>
-									<w:ilvl w:val="0"/>
-									<w:ilfo w:val="8"/>
-									<wx:t wx:val="•"/>
-									<wx:font wx:val="Calibri"/>
-								</w:listPr>
-								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
-								<w:ind w:left="337" w:hanging="337"/>
-							</w:pPr>
-							<w:r wsp:rsidRPr="00235936">
-								<w:t>Work closely with various stakeholders across the world including Product Management, Solution Architects, Program Management, Sales, Support and Professional Services.</w:t>
+								<w:t>Define product roadmap with business partners to reach business objectives.tools.</w:t>
 							</w:r>
 						</w:p>
 						
@@ -2201,23 +2271,6 @@
 								<w:ind w:left="337" w:hanging="337"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Define product roadmap with business partners to reach business objectives.tools.</w:t>
-							</w:r>
-						</w:p>
-						
-						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
-							<w:pPr>
-								<w:pStyle w:val="ListParagraph"/>
-								<w:listPr>
-									<w:ilvl w:val="0"/>
-									<w:ilfo w:val="8"/>
-									<wx:t wx:val="•"/>
-									<wx:font wx:val="Calibri"/>
-								</w:listPr>
-								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
-								<w:ind w:left="337" w:hanging="337"/>
-							</w:pPr>
-							<w:r wsp:rsidRPr="00235936">
 								<w:t>Integrate applications using technologies like HANA In-Memory DB, SQL Script, development frameworks and tools</w:t>
 							</w:r>
 						</w:p>
@@ -2252,7 +2305,7 @@
 								<w:ind w:left="337" w:hanging="337"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>&#34;Lead and manage team for the business which is very critical to the company.</w:t>
+								<w:t>Lead teams for the critical businesses of the organization.</w:t>
 							</w:r>
 						</w:p>
 						
@@ -2400,41 +2453,7 @@
 								<w:ind w:left="337" w:hanging="337"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>Work with Product Management to define the appropriate road map and immediate projects, focused on delivering software releases</w:t>
-							</w:r>
-						</w:p>
-						
-						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
-							<w:pPr>
-								<w:pStyle w:val="ListParagraph"/>
-								<w:listPr>
-									<w:ilvl w:val="0"/>
-									<w:ilfo w:val="8"/>
-									<wx:t wx:val="•"/>
-									<wx:font wx:val="Calibri"/>
-								</w:listPr>
-								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
-								<w:ind w:left="337" w:hanging="337"/>
-							</w:pPr>
-							<w:r wsp:rsidRPr="00235936">
 								<w:t>SAP Evangelist, Community Moderator &amp; Technical Content Contributor for Emerging Technologies at SAP Community Network</w:t>
-							</w:r>
-						</w:p>
-						
-						<w:p wsp:rsidR="00FD4449" wsp:rsidRPr="00235936" wsp:rsidRDefault="00FD4449" wsp:rsidP="00235936">
-							<w:pPr>
-								<w:pStyle w:val="ListParagraph"/>
-								<w:listPr>
-									<w:ilvl w:val="0"/>
-									<w:ilfo w:val="8"/>
-									<wx:t wx:val="•"/>
-									<wx:font wx:val="Calibri"/>
-								</w:listPr>
-								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
-								<w:ind w:left="337" w:hanging="337"/>
-							</w:pPr>
-							<w:r wsp:rsidRPr="00235936">
-								<w:t>Acknowledgment by Author for the book - Enterprise SOA: designing IT for business innovation for contributing in content creation.</w:t>
 							</w:r>
 						</w:p>
 						
@@ -2586,7 +2605,7 @@
 								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-								<w:t>91 998 003 6444</w:t>
+								<w:t>XX XXX XXX X444</w:t>
 							</w:r>
 						</w:p>
 						
@@ -2595,12 +2614,12 @@
 							<w:pPr>
 								<w:spacing w:after="0" w:line="240" w:line-rule="auto"/>
 							</w:pPr>
-							<w:hlink w:dest="mailto:tarun.telang@gmail.com">
+							<w:hlink w:dest="mailto:XXXXX@gmail.com">
 								<w:r wsp:rsidR="0023139C" wsp:rsidRPr="00235936">
 									<w:rPr>
 										<w:rStyle w:val="Hyperlink"/>
 									</w:rPr>
-									<w:t>tarun.telang@gmail.com</w:t>
+									<w:t>XXXXX@gmail.com</w:t>
 								</w:r>
 							</w:hlink>
 						</w:p>
@@ -2923,7 +2942,7 @@
 								<w:ind w:left="162"/>
 							</w:pPr>
 							<w:r wsp:rsidRPr="00235936">
-                                <w:t>Lint, Gradle, Jenkins, SonarQube</w:t>
+                                <w:t>Lint, Gradle, Jenkins, SonarQube, Docker, Chef</w:t>
 							</w:r>
 						</w:p>
 						
